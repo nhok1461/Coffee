@@ -20,6 +20,7 @@
 
 	@include('header')
 	<div class="rev-slider">
+		<script type="text/javascript" src="source/assets/dest/js/noel.js"></script>
 		@yield('content')
 	</div>
 	@include('footer')
