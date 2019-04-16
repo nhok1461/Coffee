@@ -21,7 +21,7 @@
 
         <div class="row">
           <div class="col-sm-4">
-            <img src="source/image/product/{{$sanpham->image}}" data-imagezoom="true" class="align-center img-responsive" alt="">
+            <img src="source/image/product/{{$sanpham->image}}" data-imagezoom="true" class="align-center img-responsive" alt="" >
           </div>
           <div class="col-sm-8">
             <div class="single-item-body">

@@ -9,7 +9,7 @@
           <!-- <a href="index" id="logo"><img src="source/image/baner.jpg" width="200px" height="200px" alt=""></a> -->
       </div>
 
-      <div class="pull-right auto-width-right">
+      <div class="pull-right auto-width-right" >
 
 					<ul class="top-details menu-beta l-inline" >
 					@if(Auth::check())

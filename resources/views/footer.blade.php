@@ -1,6 +1,6 @@
 
 <div id="footer" class="color-div">
-  <div class="container">
+  <div class="container" style="background-image: url('source/image/13.jpg');">
     <div class="row">
       <div class="col-sm-2">
         <div class="widget">
