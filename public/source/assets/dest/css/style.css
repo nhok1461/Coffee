@@ -68,6 +68,11 @@ font-weight:300;
 
 }
 
+canvas {
+	cursor: crosshair;
+	display: block;
+}
+
 div,form,fieldset,legend,label {
 margin:0;
 padding:0

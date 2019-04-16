@@ -21,13 +21,13 @@
 
       <div class="history-slider">
         <div class="history-navigation">
-          <a data-slide-index="0" href="blog_with_2sidebars_type_e.html" class="circle"><span class="auto-center"><center>Cà Phê</center></span></a>
+          <a data-slide-index="0" href="blog_with_2sidebars_type_e.html" class="square"><span class="auto-center"><center>Cà Phê</center></span></a>
           <a data-slide-index="1" href="blog_with_2sidebars_type_e.html" class="circle"><span class="auto-center"><center>Trung Nguyên</center></span></a>
-          <a data-slide-index="2" href="blog_with_2sidebars_type_e.html" class="circle"><span class="auto-center"><center>High<br>Land</center></span></a>
+          <a data-slide-index="2" href="blog_with_2sidebars_type_e.html" class="square"><span class="auto-center"><center>High<br>Land</center></span></a>
           <a data-slide-index="3" href="blog_with_2sidebars_type_e.html" class="circle"><span class="auto-center"><center>Nescafe</center></span></a>
-          <a data-slide-index="4" href="blog_with_2sidebars_type_e.html" class="circle"><span class="auto-center"><center>Mac<Br>Coffee</center></span></a>
+          <a data-slide-index="4" href="blog_with_2sidebars_type_e.html" class="square"><span class="auto-center"><center>Mac<Br>Coffee</center></span></a>
           <a data-slide-index="5" href="blog_with_2sidebars_type_e.html" class="circle"><span class="auto-center"><center>Phúc<br>Long</center></span></a>
-          <a data-slide-index="6" href="blog_with_2sidebars_type_e.html" class="circle"><span class="auto-center"><center>The Coffee<br>House</center></span></a>
+          <a data-slide-index="6" href="blog_with_2sidebars_type_e.html" class="square"><span class="auto-center"><center>The Coffee<br>House</center></span></a>
         </div>
 
         <div class="history-slides">

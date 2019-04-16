@@ -20,7 +20,9 @@
         </div>
       </div>
       <!--slider-->
-
+<canvas id="canvas">Canvas is not supported in your browser.</canvas>
+<link href="source/assets/dest/cc/style.css" rel="stylesheet" />
+<script type="source/assets/dest/js/script" src="script.js"> </script>
 <div class="container">
   <div id="content" class="space-top-none" >
     <div class="main-content">

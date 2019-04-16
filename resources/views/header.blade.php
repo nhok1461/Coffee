@@ -1,6 +1,6 @@
 <div id="header">
   <div class="header-top" >
-    <div class="container" style="background-image: url('source/image/12.jpg');">
+    <div class="container" style="background-image: url('source/image/12.jpg');"  >
       <div class="beta-comp">
         <form role="search" method="get" id="searchform" action="{{ route('search') }}">
           <input type="text" value="" name="key" id="s" placeholder="Nhập từ khóa..." />
@@ -51,7 +51,6 @@
 							</div>
 						</div>
           </li>
-
 					</ul>
 				</div>
       <div class="clearfix"></div>

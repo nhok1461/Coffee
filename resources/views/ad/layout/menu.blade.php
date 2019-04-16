@@ -1,9 +1,9 @@
-          <div class="navbar-default sidebar" role="navigation">
-                <div class="sidebar-nav navbar-collapse">
+          <div class="navbar-default sidebar" role="navigation" >
+                <div class="sidebar-nav navbar-collapse" >
                     <ul class="nav" id="side-menu">
 
                         <li>
-                            <a><i class="fa fa-dashboard fa-fw"></i>Trang Admin</a>
+                            <a><i class="fa fa-dashboard fa-fw" ></i>Trang Admin</a>
                         </li>
                      {{--    <li>
                             <a><i class="fa fa-bar-chart-o fa-fw"></i>Loại<span class="fa arrow"></span></a>

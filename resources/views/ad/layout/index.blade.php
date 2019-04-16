@@ -31,12 +31,15 @@
     padding:1px;
     text-align: center;
     }
+    table{
+      background-color: #99FFFF;
+    }
     </style>
 </head>
 
-<body>
+<body >
 
-    <div id="wrapper">
+    <div id="wrapper" >
 
         @include('ad.layout.header')
 

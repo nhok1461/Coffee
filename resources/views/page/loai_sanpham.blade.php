@@ -25,7 +25,7 @@
             @endforeach
           </ul>
         </div>
-        <div class="col-sm-9">
+        <div class="col-md-7">
           <div class="beta-products-list">
             <h4>Sản Phẩm</h4>
             <div class="beta-products-details">
@@ -67,6 +67,13 @@
           </div> <!-- .beta-products-list -->
 
           <div class="space50">&nbsp;</div>
+        </div>
+        <div class="col-sm-3">
+          <div class="widget">
+            <div class="widget-body">
+                  <a class="pull-left"><img src="source/image/sale2.jpe" alt=""></a>
+            </div>
+          </div>
         </div>
       </div> <!-- end section with sidebar and main content -->
     </div> <!-- .main-content -->
